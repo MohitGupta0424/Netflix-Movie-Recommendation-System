@@ -5,7 +5,7 @@ This file uses various Machine learning algorithms to find recommendations. The 
     Mean Rating,
     Weighted Mean Rating
 2) Collaborative Filtering Based:
-    User-User/ Item-Item Similarity,<br>
+    User-User/ Item-Item Similarity,
     Matrix Factorisation using gradient descent,
     Matrix Factorisation using Single value decomposition,
     Matrix Factorisation using Deep Learning Model
